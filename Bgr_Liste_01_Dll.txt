@@ -1,2 +1,4 @@
 https://github.com/bgrozdemir/Dll/blob/main/TURKEYAKARYAKIT_AMBAR_TOPLAMLARI_V3_0.dll
 https://github.com/bgrozdemir/Dll/blob/main/TURKEYAKARYAKIT_AMBAR_TOPLAMLARI_V3_0.tlb
+https://github.com/bgrozdemir/Dll/blob/main/BgrListeDeneme.dll
+https://github.com/bgrozdemir/Dll/blob/main/BgrListeDeneme.tlb
